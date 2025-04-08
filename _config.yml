@@ -1,0 +1,9 @@
+title: "Physics PhD Portfolio"
+email: your.email@university.edu
+description: >-
+  Personal academic website of an experimental physicist
+baseurl: ""
+url: "https://yourusername.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
