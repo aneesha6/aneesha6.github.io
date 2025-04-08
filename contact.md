@@ -4,6 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-- 📧 Email: your.email@university.edu  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 💻 [GitHub](https://github.com/yourusername)
+- 📧 Email: axa1253@case.edu  
+- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/aneesha-avasthi-490041124/))  
+- 💻 [GitHub](https://github.com/aneesha6)
