@@ -3,7 +3,7 @@ email: axa1253@case.edu
 description: >-
   Personal academic website of an experimental physicist
 baseurl: ""
-url: "https://yourusername.github.io"
+url: "https://aneesha6.github.io"
 theme: minima
 plugins:
   - jekyll-feed
